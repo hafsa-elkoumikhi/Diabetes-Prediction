@@ -1,0 +1,1 @@
+This GitHub repository hosts a comprehensive Diabetes Prediction project leveraging machine learning techniques. The goal of this project is to develop a predictive model capable of identifying individuals at risk of diabetes based on various health parameters.
